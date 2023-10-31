@@ -1,0 +1,15 @@
+{
+    "Auth": true,
+    "Role": true,
+    "Permission": true,
+    "User": true,
+    "Setting": true,
+    "Language": true,
+    "Backup": true,
+    "Subcription": true,
+    "Expert": true,
+    "Customer": true,
+    "Conversation": true,
+    "Cms": true,
+    "Report": true
+}
